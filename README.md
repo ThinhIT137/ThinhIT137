@@ -1,8 +1,6 @@
 # Hello! 👋 I am a Software Developer Student
 
 - 🚀 Lập trình viên phần mềm, yêu thích lập trình web và phát triển ứng dụng.  
-- 💻 Thành thạo nhiều công nghệ front-end và back-end.  
-- 📊 Có kinh nghiệm làm việc với cơ sở dữ liệu quan hệ và phi quan hệ.  
 - ☁️ Đam mê học hỏi và nghiên cứu các công nghệ mới.  
 
 ## 🔧 Languages and Tools:
