@@ -1,4 +1,4 @@
-# Hello! 👋 I am a Software Developer Student
+# Hello! 👋 I am a student currently studying Software Engineering.
 
 - 🚀 Lập trình viên phần mềm, yêu thích lập trình web và phát triển ứng dụng.  
 - ☁️ Đam mê học hỏi và nghiên cứu các công nghệ mới.  
